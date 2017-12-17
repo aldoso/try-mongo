@@ -4,7 +4,7 @@
 ### Be sure to type the correct mongo version (i.e. 3.7) in the file path
 
 1. Download mongoDB from https://www.mongodb.com/download-center?jmp=nav#community
-2. Create a data\db inside C:\ 
+2. Create a **data\db** folder inside C:\ 
 3. Download and install mongodb package: 
 ```
 C:\Users\Your Name>npm install mongodb
@@ -23,7 +23,9 @@ var mongo = require('mongodb');
 ```
 7. Every *.js file correspounds to an action on mongodb, so just type in a console: 
 ```
-node thefilename.js```
+node thefilename.js
+```
 to execute that particular command
 
-more here: https://docs.mongodb.com/manual/reference/
+
+#### more here: https://docs.mongodb.com/manual/reference/
