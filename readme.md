@@ -21,11 +21,11 @@ C:\Program Files\MongoDB\Server\3.6\bin>mongo
 ```
 var mongo = require('mongodb');
 ```
-7. Every *.js file correspounds to an action on mongodb, so just type in a console: 
+7. Every *.js file correspounds to an action on mongodb, so to execute that particular command
+ just type in a console: 
 ```
 node thefilename.js
 ```
-to execute that particular command
 
 
 #### more here: https://docs.mongodb.com/manual/reference/
